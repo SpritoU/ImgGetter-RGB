@@ -26,4 +26,3 @@ L’utilisateur peut aussi choisir le dossier de sauvegarde.
 
 <img width="792" height="473" alt="image" src="https://github.com/user-attachments/assets/9bd3c8f0-bda4-4618-afee-a63829ec3583" />
 <img width="795" height="480" alt="image" src="https://github.com/user-attachments/assets/1438e58c-1dc4-4f42-a7cf-a199d0bb8ee9" />
-<img width="1024" height="1024" alt="logofr" src="https://github.com/user-attachments/assets/c1d5228f-4f4b-4598-b62b-1b3fd6f2104e" />
